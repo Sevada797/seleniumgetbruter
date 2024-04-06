@@ -1,0 +1,5 @@
+selenium==4.10.0
+certifi
+trio
+trio-websocket
+urllib3
